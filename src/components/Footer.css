@@ -1,0 +1,8 @@
+.background-rectangle {
+    position: absolute;
+    left: 0;
+    background-color: #331a53;
+    width: 100%;
+    height: 5rem;
+    /* bottom: 0; */
+}
